@@ -1,0 +1,64 @@
+/* Hackathon Section */
+.hackathon {
+    background: #0D1B2A;
+    color: #ffffff;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.hackathon-content {
+    max-width: 700px;
+    margin: 0 auto 50px auto;
+}
+
+.hackathon h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.hackathon-subtitle {
+    font-size: 18px;
+    color: #60A5FA;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.hackathon-description {
+    font-size: 16px;
+    color: #E5E7EB;
+    line-height: 1.7;
+}
+
+/* Stats */
+.stats-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.stat-card {
+    background: #1E293B;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid #334155;
+}
+
+.stat-card h3 {
+    font-size: 48px;
+    color: #2563EB;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.stat-card p {
+    font-size: 14px;
+    color: #94A3B8;
+}
+
+.hackathon-cta .button {
+    display: inline-block;
+    padding: 14px 32px;
+    font-size: 16px;
+}

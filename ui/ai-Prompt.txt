@@ -1,0 +1,16 @@
+# AI Prompt
+
+Create a premium Hackathon section for a DevConf 2026 landing page using only HTML and CSS.
+
+Requirements:
+
+- Dark modern background
+- Large title
+- Subtitle
+- Description
+- Four statistics cards
+- Join Hackathon button
+- Blue technology theme
+- Responsive layout
+- No JavaScript
+- Match the style of a modern developer conference website.
